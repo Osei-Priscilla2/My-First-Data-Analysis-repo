@@ -1,13 +1,14 @@
-#Project name: My First Data Analysis Repository
-...
-#Project Objective: Project Statement 
-...
-#Data sourcing
+# Project name: My First Data Analysis Repository
 
 ...
-#Data transformation 
+# Project Objective: Project Statement 
+...
+# Data sourcing
 
 ...
-#Findings & Recommendations 
+# Data transformation 
+
+...
+# Findings & Recommendations 
 
 ..
